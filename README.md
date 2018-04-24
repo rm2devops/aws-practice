@@ -1,2 +1,2 @@
 # aws-practice
-Sample code for using various AWs services
+Sample code for using various AWS services
