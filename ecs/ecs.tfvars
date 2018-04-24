@@ -1,7 +1,3 @@
-access_key = "AKIAI5EOQB5HSSCLBKUQ"
-
-secret_key = "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"
-
 vpc_cidr = "10.0.0.0/16"
 
 environment = "pcl-qa"
